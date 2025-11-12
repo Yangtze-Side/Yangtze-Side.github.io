@@ -1,9 +1,10 @@
 ---
-title: My Site
+title: Official Website of Yangtze Side
 toc: false
+comments: false
 ---
 
-This is the landing page.
+Where we start.
 
 ## Explore
 
